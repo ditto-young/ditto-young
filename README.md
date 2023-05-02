@@ -28,5 +28,7 @@
 
 <div align="center">
   
-![ditto-young's github stats](https://github-readme-stats.vercel.app/api?username=ditto-young&show_icons=true&hide_title=true&include_all_commits=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ditto-young&hide_progress=true)
+![ditto-young's github stats](https://github-readme-stats.vercel.app/api?username=ditto-young&show_icons=true&hide_title=true&include_all_commits=true&theme=react&rank_icon=github)
+  
 </div>
