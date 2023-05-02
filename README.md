@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HI! YOUNG!&fontAlign=70&fontAlignY=35&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HI!%20YOUNGS!&fontAlign=70&fontAlignY=35&color=gradient)
 
 <h3 align="center">📚 Tech Stack 📚</h3> <p align="center"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
