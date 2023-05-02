@@ -1,5 +1,8 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=HI!%20YOUNGS!&fontAlign=70&fontAlignY=35&color=gradient)
-
+</div>
+  
 <h3 align="center">📚 Tech Stack 📚</h3> <p align="center"> 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,4 +25,8 @@
 </p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>  
-![Young's github stats](https://github-readme-stats.vercel.app/api?username=ditto-young&show_icons=true&include_all_commits=true&theme=react)
+
+<div align="center">
+  
+![ditto-young's github stats](https://github-readme-stats.vercel.app/api?username=ditto-young&show_icons=true&hide_title=true&include_all_commits=true&theme=react)
+</div>
